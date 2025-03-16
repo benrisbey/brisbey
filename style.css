@@ -673,7 +673,7 @@ footer .hover-underline::after {
 
 
 .blog-hero {
-  background-image: url("images/storeimages/pexels-eberhardgross-1670187.jpg");
+  background-image: url("images/storeimages/pexels-eberhardgross-1670187.jpeg");
   min-height: 45vh;
 }
 
@@ -1180,10 +1180,10 @@ footer .hover-underline::after {
 }
 
 .stories-img-1 {
-  background-image: url("images/blog/bear-forest.jpg"); 
+  background-image: url("images/blog/bear-forest.jpeg"); 
 }
 .stories-img-2 {
-  background-image: url("images/blog/niagara-falls.jpg"); 
+  background-image: url("images/blog/niagara-falls.jpeg"); 
 }
 
 

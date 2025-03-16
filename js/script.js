@@ -21,9 +21,9 @@ function handleHover(linkSelector, imageId, textId, defaultImage, defaultText) {
 }
 
 // Apply hover logic for different sections
-handleHover(links, 'image-1', 'image-text-1', 'images/navigationImages/men-default.jpg', 'MEN');
-handleHover(links, 'image-2', 'image-text-2', 'images/navigationImages/women-default.jpg', 'WOMEN');
-handleHover(links, 'image-3', 'image-text-3', 'images/navigationImages/explore-default.jpg', 'EXPLORE');
+handleHover(links, 'image-1', 'image-text-1', 'images/navigationImages/men-default.jpeg', 'MEN');
+handleHover(links, 'image-2', 'image-text-2', 'images/navigationImages/women-default.jpeg', 'WOMEN');
+handleHover(links, 'image-3', 'image-text-3', 'images/navigationImages/explore-default.jpeg', 'EXPLORE');
 
 
 
